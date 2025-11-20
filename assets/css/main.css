@@ -13,13 +13,12 @@
 /* Fonts */
 @font-face {
   font-family: "Blackletter"
-    src: url("assets/BlackletterExtrabold-51DV.ttf") format("truetype"),
-    url("assets/BlackletterShadow-6YAA.ttf") format("truetype");
+    src: url("assets/BlackletterExtrabold-51DV.ttf") format("truetype");
 }
 
 :root {
   --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --heading-font: "Blackletter",  sans-serif;
+  --heading-font: "Blackletter";
   --nav-font: "Poppins",  sans-serif;
 }
 
