@@ -13,7 +13,7 @@
 /* Fonts */
 @font-face {
   font-family: "Blackletter"
-    src: url("assets/BlackletterExtrabold-51DV.ttf") format("truetype");
+    src: url("assets/BlackletterExtrabold-51DV.woff2") format("woff2");
 }
 
 :root {
