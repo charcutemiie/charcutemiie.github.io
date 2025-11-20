@@ -37,7 +37,7 @@
   --nav-color: var(--default-color);  /* The default color of the main navmenu links */
   --nav-hover-color: var(--accent-color); /* Applied to main navmenu links when they are hovered over or active */
   --nav-mobile-background-color: var(--background-color); /* Used as the background color for mobile navigation menu */
-  --nav-dropdown-background-color: var(--gray-8); /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
+  --nav-dropdown-background-color: #343a40; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
   --nav-dropdown-color: var(--default-color); /* Used for navigation links of the dropdown items in the navigation menu. */
   --nav-dropdown-hover-color: var(--accent-color); /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
@@ -741,7 +741,6 @@ section,
   color: var(--contrast-color);
   background: var(--accent-color);
   font-family: var(--heading-font);
-  text-transform: uppercase;
   font-weight: 600;
   font-size: 12px;
   letter-spacing: 1px;
@@ -810,7 +809,6 @@ section,
   color: var(--heading-color);
   padding: 0;
   margin: 0 0 6px 0;
-  text-transform: uppercase;
   display: block;
   font-weight: 600;
   font-family: var(--heading-font);
@@ -990,7 +988,6 @@ section,
   line-height: 18px;
   font-size: 18px;
   font-weight: 600;
-  text-transform: uppercase;
   color: color-mix(in srgb, var(--default-color), transparent 20%);
   margin-bottom: 10px;
 }
