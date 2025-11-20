@@ -1344,6 +1344,8 @@ section,
   width: 44px;
   height: 44px;
   display: flex;
+  justify-content: center;
+  align-items: center;
   border-radius: 50px;
   transition: all 0.3s ease-in-out;
   margin-right: 15px;
