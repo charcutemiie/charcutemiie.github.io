@@ -15,12 +15,16 @@
   font-family: "Blackletter";
     src: url("/assets/BlackletterExtrabold-51DV.eot");
     src: url("/assets/BlackletterExtrabold-51DV.eot#iefix") format("embedded-opentype"), url("/assets/BlackletterExtrabold-51DV.woff2") format("woff2"), url("/assets/BlackletterExtrabold-51DV.ttf") format("truetype");
+  font-family: "ccsignlanguage", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://use.typekit.net/vyb6itt.css");
 }
 
 :root {
-  --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --default-font: "ccsignlanguage";
   --heading-font: "Blackletter";
-  --nav-font: "Poppins",  sans-serif;
+  --nav-font: "ccsignlanguage",  sans-serif;
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
