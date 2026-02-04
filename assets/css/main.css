@@ -15,6 +15,8 @@
   font-family: "Blackletter";
     src: url("/assets/BlackletterExtrabold-51DV.eot");
     src: url("/assets/BlackletterExtrabold-51DV.eot#iefix") format("embedded-opentype"), url("/assets/BlackletterExtrabold-51DV.woff2") format("woff2"), url("/assets/BlackletterExtrabold-51DV.ttf") format("truetype");
+}
+@font-face {
   font-family: "ccsignlanguage", sans-serif;
     font-weight: 700;
     font-style: normal;
