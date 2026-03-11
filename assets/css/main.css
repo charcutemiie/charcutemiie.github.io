@@ -100,6 +100,16 @@ h6 {
   font-family: var(--heading-font) !important;
 }
 
+.strokemeh2 {
+  color: var(--heading-color);
+  font-family: var(--heading-font) !important;
+  text-shadow:
+  -5px -5ph 0 #fff,
+  5px -5ph 0 #fff,
+  -5ph 5px 0 #fff,
+  5px 5px 0 #fff;
+}
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
