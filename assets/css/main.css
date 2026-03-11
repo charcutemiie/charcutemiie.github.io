@@ -103,6 +103,13 @@ h6 {
 .strokemeh2 {
   color: var(--heading-color);
   font-family: var(--heading-font) !important;
+  display: block;
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
   text-shadow:
   -5px -5ph 0 #fff,
   5px -5ph 0 #fff,
