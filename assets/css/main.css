@@ -68,12 +68,12 @@
 /* Smooth scroll */
 :root {
   scroll-behavior: smooth;
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=243555, auto);
 }
 
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
 --------------------------------------------------------------*/
-cursor: url(http://www.rw-designer.com/cursor-extern.php?id=243555, auto)
 
 body {
   color: var(--default-color);
@@ -102,10 +102,8 @@ h6 {
   font-family: var(--heading-font) !important;
 }
 
-.strokemeh2 {
-  color: var(--heading-color);
-  font-family: var(--heading-font) !important;
-  text-shadow: 0.05em 0 black, 0 0.05em black, -0.05em 0 black, 0 -0.05em black, -0.05em -0.05em black, -0.05em 0.05em black, 0.05em -0.05em black, 0.05em 0.05em black;
+.strokeme {
+  text-shadow: 0.05em 0 white, 0 0.05em white, -0.05em 0 white, 0 -0.05em white, -0.05em -0.05em white, -0.05em 0.05em white, 0.05em -0.05em white, 0.05em 0.05em white;
 }
 
 /* PHP Email Form Messages
