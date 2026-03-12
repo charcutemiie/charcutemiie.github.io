@@ -104,14 +104,14 @@ h6 {
 
 .strokeme {
   text-shadow: 
-    1.5px 0 white, 
-    0 1.5px white, 
-    -1.5px 0 white, 
-    0 -1.5px white, 
-    -1.5px -1.5px white, 
-    -1.5px 1.5px white, 
-    1.5px -1.5px white, 
-    1.5px 1.5px white;
+    1px 0 white, 
+    0 1px white, 
+    -1px 0 white, 
+    0 -1px white, 
+    -1px -1px white, 
+    -1px 1px white, 
+    1px -1px white, 
+    1px 1px white;
 }
 
 /* PHP Email Form Messages
