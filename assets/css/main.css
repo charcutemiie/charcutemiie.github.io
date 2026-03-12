@@ -68,7 +68,7 @@
 /* Smooth scroll */
 :root {
   scroll-behavior: smooth;
-  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=243555, auto);
+  /*cursor: url(http://www.rw-designer.com/cursor-extern.php?id=243555, auto);*/
 }
 
 /*--------------------------------------------------------------
