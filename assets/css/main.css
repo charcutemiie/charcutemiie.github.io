@@ -103,7 +103,15 @@ h6 {
 }
 
 .strokeme {
-  text-shadow: 0.05em 0 white, 0 0.05em white, -0.05em 0 white, 0 -0.05em white, -0.05em -0.05em white, -0.05em 0.05em white, 0.05em -0.05em white, 0.05em 0.05em white;
+  text-shadow: 
+    3px 0 white, 
+    0 3px white, 
+    -3px 0 white, 
+    0 -3px white, 
+    -3px -3px white, 
+    -3px 3px white, 
+    3px -3px white, 
+    3px 3px white;
 }
 
 /* PHP Email Form Messages
