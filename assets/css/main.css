@@ -765,7 +765,7 @@ section,
 .hero .btn-get-started {
   color: var(--contrast-color);
   background: var(--accent-color);
-  font-family: var(--heading-font);
+  font-family: var(--default-font);
   font-weight: 600;
   font-size: 12px;
   letter-spacing: 1px;
