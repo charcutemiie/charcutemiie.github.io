@@ -112,9 +112,10 @@ h6 {
     -1px 1px white, 
     1px -1px white, 
     1px 1px white; */
-  stroke: white,
+  /* stroke: white,
   stroke-width: 2px,
-  stroke-linejoin: round;
+  stroke-linejoin: round; */
+  text-stroke: 2px white; 
 }
 
 /* PHP Email Form Messages
